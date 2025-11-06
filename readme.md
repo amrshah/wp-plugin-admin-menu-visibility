@@ -1,5 +1,6 @@
-=== Admin Menu Visibility (No Hide Settings) ===
-Contributors: Ali Raza a.k.a Amr Shah
+# === Admin Menu Visibility ===
+
+Contributors: Amr Shah
 Tags: admin menu, visibility, hide menu, dashboard cleanup
 Requires at least: 5.0
 Tested up to: 6.7
@@ -9,7 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A simple plugin that lets administrators hide or show specific WordPress admin menu items — excluding "Settings" for safety.
 
-== Description ==
+## == Description ==
 
 **Admin Menu Visibility (No Hide Settings)** allows site administrators to simplify the WordPress dashboard by hiding selected top-level admin menu items such as **Posts**, **Pages**, **Media**, **Plugins**, **Tools**, etc.
 
@@ -46,7 +47,7 @@ To prevent locking yourself out of the plugin controls or key WordPress settings
 = Does this affect user roles differently? =
 In this version, it applies globally to all users. A future update will allow per-role visibility control.
 
-== Changelog ==
+#### == Changelog ==
 
 = 1.1 =
 * Added protection to exclude "Settings" menu from hiding.
@@ -55,8 +56,30 @@ In this version, it applies globally to all users. A future update will allow pe
 = 1.0 =
 * Initial release — hide or show any top-level admin menu item.
 
-== Upgrade Notice ==
+#### == Upgrade Notice ==
 Upgrading to version 1.1 ensures the “Settings” menu cannot be accidentally hidden, preventing admin lockout.
 
-== License ==
+#### == License ==
 This plugin is licensed under the GPLv2 or later. You are free to modify and redistribute it.
+
+
+
+## Credits
+
+Developed by the **AmrShah**
+
+For support, improvements, or contributions, please open an issue or submit a pull request on GitHub.
+
+## Developer Contact
+
+For professional WordPress development, performance optimization, or custom plugin work,  
+contact **Amr Shah** - creator of this plugin and lead developer at [AlamiaSoft](https://amrshah.github.io).
+
+- **Website:** [https://amrshah.github.io](https://amrshah.github.io)  
+- **GitHub:** [https://github.com/amrshah](https://github.com/amrshah)  
+- **Email:** amr.shah@gmail.com  
+
+
+We build scalable tools, custom dashboards, and performance-focused WordPress/custom solutions for businesses worldwide.
+
+
