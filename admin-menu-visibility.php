@@ -48,8 +48,7 @@ function amv_render_settings_page() {
         'themes.php'             => 'Appearance',
         'plugins.php'            => 'Plugins',
         'users.php'              => 'Users',
-        'tools.php'              => 'Tools',
-        // 'options-general.php' => 'Settings', // intentionally excluded
+        'tools.php'              => 'Tools',        
     ];
 
     $hidden = get_option('amv_hidden_menus', []);
